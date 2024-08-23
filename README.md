@@ -28,7 +28,7 @@
     <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
   </a>
   <!-- Ícono para CV en PDF -->
-  <a href="https://github.com/tu-usuario-github/CV.pdf" target="_blank">
+  <a href="https://github.com/MajoVarela8/CVVarelaMariaJose.git" target="_blank">
     <img src="https://img.icons8.com/plasticine/40/000000/resume.png" alt="Resume">
   </a>
 </p>

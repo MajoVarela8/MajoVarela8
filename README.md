@@ -16,11 +16,41 @@
 
 - 📫 Cómo contactarme: **varelamariajose74@gmail.com**
 
+  
+
+
+<h3 align="center"> 🛠️ Languages and Tools</h3>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://img.icons8.com/officel/48/000000/php-logo.png" alt="PHP"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+  </a>
+</p>
+
+
+
+
 
 <br/>
 <h3 align="center"> 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" alt="handshake emoji"> Connect with me 🤝 
 </h3>
+
 
 <p align="center">
   <!-- Ícono para LinkedIn -->
